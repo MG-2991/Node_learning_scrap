@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Contact</title>
+    <title>Home</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -52,14 +52,14 @@
     </nav>
 
     <div class="container">
-      <h2>Contact</h2>
+      <h2>Home</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tellus lectus, sodales et dapibus in, egestas a est. Duis ac justo non odio aliquet tincidunt. Curabitur suscipit a dui nec lobortis. Sed leo turpis, dictum vel diam feugiat, feugiat elementum erat. Maecenas et lorem porttitor, blandit nisl sit amet, interdum purus. Quisque volutpat vitae odio id feugiat. Sed vestibulum, lacus a ullamcorper congue, tellus neque dignissim lectus, vel luctus nibh nunc vitae nunc. Suspendisse sodales lacus id diam dapibus viverra vitae sed diam.
 
 Aenean feugiat nunc ac nunc iaculis rutrum. Donec blandit leo leo, et pulvinar orci congue et. Curabitur ullamcorper id ante id imperdiet. Donec ut libero sed lectus aliquet egestas sit amet vitae mi. Pellentesque porttitor dapibus elit. Vivamus eu mi mattis, ultricies eros at, feugiat ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris faucibus venenatis nunc vel condimentum. Suspendisse et facilisis velit, et molestie nisl. Sed vulputate quis sapien non feugiat.
 </p>
       <div class="starter-template">
-        <h1>Contact</h1>
-        <p class="lead">Aenean feugiat nunc ac nunc</p>
+        <h1>Bootstrap starter template</h1>
+        <p class="lead">Suspendisse et facilisis velit, et molestie nisl. Sed vulputate quis sapien non feugiat.</p>
       </div>
 
     </div><!-- /.container -->
@@ -74,4 +74,3 @@ Aenean feugiat nunc ac nunc iaculis rutrum. Donec blandit leo leo, et pulvinar o
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
-
